@@ -1,0 +1,3 @@
+Planning: reunião onde acontece o planejamento de uma Sprint.
+Sprint: um ciclo de desenvolvimento.
+Retro: evento que fecha a Sprint.
