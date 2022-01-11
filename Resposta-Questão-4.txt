@@ -1,0 +1,6 @@
+4.Descreve em poucas palavras os principais métodos HTTP:
+GET: Solicita uma pagina ou visualização web, pode mandar dados pela url
+POST: Envia recurso ou informaçõe para uma pagina
+PATH: aplica modificações a um recurso
+PUT: Envia/Cria novo recurso ou substitui ele 
+DELETE: Deleta um recurso especifico
