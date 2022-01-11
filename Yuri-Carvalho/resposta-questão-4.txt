@@ -1,0 +1,13 @@
+Q: Descreve em poucas palavras os principais métodos HTTP:
+GET:
+POST:
+PATH:
+PUT:
+DELETE:
+
+R:
+GET: Faz uma solicitação de dados ao servidor.
+POST: Faz um envio de dados ao servidor.
+PATCH: Também faz envio de dados ao servidor. Só pode fazer modificações parciais.
+PUT: Também faz envio de dados ao servidor, porém só pode fazer modificações completas ou criar recursos novos.
+DELETE: Remove um recurso do servidor.

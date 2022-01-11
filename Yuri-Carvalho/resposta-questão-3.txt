@@ -1,0 +1,7 @@
+Q: Qual definição de função abaixo é inválida?
+[ ] - function minhaFuncao () {}
+[ ] - const funcao = () => {}
+[ ] - function funcao = () => {}
+
+R:
+[X] - function funcao = () => {}
