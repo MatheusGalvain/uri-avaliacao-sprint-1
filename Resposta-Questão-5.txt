@@ -1,0 +1,4 @@
+5.Explique em poquíssimas palavras o que é cada um dos itens abaixo:
+1- Planning: Planejamento e coleta dos requisitos
+2- Sprint: Tradução do projeto em código
+3- Retro: Levanta os acontecimentos positivos
