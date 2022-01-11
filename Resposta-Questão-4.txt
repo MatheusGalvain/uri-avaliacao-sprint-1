@@ -1,0 +1,6 @@
+4.Descreve em poucas palavras os principais métodos HTTP:
+GET:
+POST:
+PATH:
+PUT:
+DELETE:
