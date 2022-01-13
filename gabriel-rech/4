@@ -1,0 +1,6 @@
+4. Descreve em poucas palavras os principais métodos HTTP:
+GET: É um método de requisição onde pedimos a representação de um recurso.
+POST: É utilizado quando queremos criar um recurso.
+PATH: Utilizado para fazer mudanças parcias em um recurso.
+PUT: Substitui todas as atuais representações do recurso de destino pela carga de dados da requisição.
+DELETE: Exclui um recurso específico.
