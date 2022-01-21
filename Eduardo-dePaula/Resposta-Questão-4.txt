@@ -1,0 +1,5 @@
+GET: Traz a página requisitada;
+POST: Cria registros;
+PATH: Aplica alterações parciais em algo;
+PUT: Atualiza registros;
+DELETE: Solicita a remoção de algo
