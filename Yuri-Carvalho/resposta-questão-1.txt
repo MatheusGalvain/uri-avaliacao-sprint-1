@@ -1,0 +1,4 @@
+Q: O valor de uma constante pode ser mudado após a sua declaração? E explique a finalidade de se usar uma constante. Cite também as diferenças entre var e let.
+
+R:	Não. A constante é sempre declarada com um valor inicial, e manterá esse valor sempre. É útil em situações em que precisaremos acessar um valor específico e que não mudará durante a execução do código.
+	Variáveis criadas por "var" possuem escopo geral, e podem ser declaradas e utilizadas em qualquer parte do código, inclusive partes escritas antes da linha em que foi declarada. Variáveis do tipo "let", em contraste, possuem escopo específico, e só podem ser acessadas dentro do escopo em que foram declaradas, e apenas por código escrito após a declaração.	
