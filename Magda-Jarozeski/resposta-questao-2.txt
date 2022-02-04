@@ -1,0 +1,4 @@
+Qual das definições de array está incorreta?
+[ ] - var frutas = new Array('maça', 'uva');
+[ ] - const frutas = ['maça', 'uva']
+[x] - let frutas = new list('maça', 'uva');

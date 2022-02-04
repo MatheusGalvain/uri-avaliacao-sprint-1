@@ -1,0 +1,1 @@
+[x] - let frutas = new list('maça', 'uva')

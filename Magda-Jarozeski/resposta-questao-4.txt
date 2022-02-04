@@ -1,0 +1,6 @@
+Descreve em poucas palavras os principais métodos HTTP:
+GET: retorna dados
+POST: solicita e recebe dados
+PATH: substituição completa em documentos 
+PUT: atualiza os dados
+DELETE: deleção de dados
