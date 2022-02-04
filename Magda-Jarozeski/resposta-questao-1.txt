@@ -1,0 +1,4 @@
+O valor de uma constante não pode ser alterado, como o próprio nome sujere. Ela tem o objetivo de ser uma "variável" que pode ser lida, apenas. 
+Diferença entre var e let:
+Var: escopo global/função
+let: escopo local/instrução 
