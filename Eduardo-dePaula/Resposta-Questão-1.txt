@@ -1,0 +1,3 @@
+Não pode. Uma constante detém um valor que não poderá ser alterado no decorrer do código, servindo para guardar valores fixos, como por exemplo o número PI (3,14).
+
+Var é a forma mais antiga de se declarar variáveis em JS, tendo escopo global, ou seja, pode ser acessada de qualquer lugar. Já a Let é uma forma mais recente de se declarar variáveis tendo escopo de bloco, ou seja, não poderá ser acessada globalmente se for declarada em uma função, por exeplo.

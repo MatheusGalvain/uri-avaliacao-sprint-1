@@ -1,0 +1,4 @@
+Explique em poquíssimas palavras o que é cada um dos itens abaixo:
+1- Planning: reunião realizada antes do início de uma sprint para planejamento
+2- Sprint: é uma forma de organizar o tempo para realização de determiandas atividades, geralmente tem duração de duas semanas. 
+3- Retro: acontece após o termino da sprint, antes de começar um novo planning
